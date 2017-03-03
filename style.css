@@ -1,0 +1,252 @@
+
+.main-background {
+  background-image: linear-gradient(to right, purple, rgb(255,92,51));
+  margin-top: 15px;
+  margin-bottom: 35px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.main-background2{
+  background-image: linear-gradient(to right, purple, rgb(255,92,51));
+  margin-bottom: 15px;
+  padding-top: 25px;
+  padding-bottom: 12.5%;
+}
+
+.logo-size{width: 5%;
+  margin-left: 15px;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li{
+  display: inline;
+}
+
+div a{
+  color: brown;
+}
+
+.nav-bar-item1{
+  color: rgb(255,92,51);
+  font-family: 'Asap', sans-serif;
+  font-size: 12px;
+  display: inline;
+  box-sizing: border-box;
+  padding: 10px;
+  width: 25%;
+}
+
+.nav-bar-item2{
+  color: rgb(255,92,51);
+  font-family: 'Asap', sans-serif;
+  font-size: 12px;
+  display: inline;
+  box-sizing: border-box;
+  margin-left: 45%;
+  width: 25%;
+}
+
+ .shopping-cart{
+  color: rgb(255,92,51);
+  display: inline;;
+  border: solid 1px white;
+  font-family: 'Asap', sans-serif;
+  padding: 0px;
+  width: 25%;
+  font-size: 12px;
+}
+
+.float-right{
+  float: right;
+}
+
+.body-image{
+  width: 40%;
+  margin-top: 5%;
+  vertical-align: middle;
+  display: inline;
+
+
+}
+
+p{
+  width: 30%;
+  margin-right: 10%;
+}
+
+.level{
+  display: inline-block;
+  box-sizing: border-box;
+}
+
+.body-text1{
+  color: white;
+  font-family: 'Asap', sans-serif;
+  margin-left: 20%
+}
+
+.body-text2{
+  color: white;
+  font-family: 'Asap', sans-serif;
+  font-size: 30px;
+  padding-right: 10%;
+  vertical-align: text-top;
+  display: inline-block;
+  box-sizing: border-box;
+}
+
+.body-text3{
+  color: white;
+  font-family: 'Asap', sans-serif;
+  font-size: 20px;
+  margin-left: 65%;
+  display: inline-block;
+}
+
+.black-font{
+  color: black;
+}
+
+.dollar-sign2{
+  color: white;
+  font-family: 'Asap', sans-serif;
+  display: inline-block;
+  font-size: 12px;
+  margin-left: 65%;
+}
+
+.body-content{
+    display: inline;
+    margin-left: 25%;
+    line-height: 50px;
+    color: white;
+  }
+
+.buy-now{
+  border: solid 10px white;
+  color: rgb(255,92,51);
+  background-color: white;
+  margin-left: 2%;
+}
+
+.body-text4{
+  margin-left: 25%;
+  font-family: 'Asap', sans-serif;
+}
+
+.background-color3{
+  background-color: rgb(253, 236, 238);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  font-family: 'Asap', sans-serif;
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+.bottom-text1{
+  color: white;
+  font-size: 22px;
+  font-family: 'Asap', sans-serif;
+  display: inline;
+  margin-left: 7.5%;
+}
+
+.bottom-text2{
+  color: white;
+  font-size: 22px;
+  font-family: 'Asap', sans-serif;
+  display: inline;
+  margin-left: 12.5%;
+}
+
+.bottom-text3{
+  color: white;
+  font-size: 22px;
+  font-family: 'Asap', sans-serif;
+  display: inline;
+  margin-left: 14.5%;
+}
+
+.price{
+  color: white;
+  font-size: 22px;
+  font-family: 'Asap', sans-serif;
+  display: inline-block;
+}
+
+.dollar-sign{
+  color: white;
+  font-family: 'Asap', sans-serif;
+  display: inline;
+  padding-left: 5%;
+  font-size: 12px;
+}
+
+.zeros{
+  color: white;
+  font-family: 'Asap', sans-serif;
+  display: inline-block;
+  font-size: 12px;
+}
+
+.bottom-image{
+  width: 33%;
+  padding-top: 7.5%;
+  padding-left: 7.5%;
+  padding-right: 5%;
+  padding-bottom: 1%;
+  display: inline;
+  box-sizing: border-box;
+}
+
+.bottom-logo{
+  width: 5%;
+  margin-left: 15px;
+}
+
+.bottom-nav{
+    color: rgb(255,92,51);
+    display: inline;
+    font-family: 'Asap', sans-serif;
+    padding: 10px;
+    width: 25%;
+    box-sizing: border-box;
+    font-size: 12px;
+    margin-bottom: 10px;
+  }
+
+  .bottom-right1{
+    color: grey;
+    font-family: 'Asap', sans-serif;
+    font-size: 12px;
+    display: inline;
+    box-sizing: border-box;
+    margin-left: 35%;
+  }
+
+  .bottom-right2{
+    color: grey;
+    font-family: 'Asap', sans-serif;
+    font-size: 12px;
+    display: inline;
+    box-sizing: border-box;
+    margin-left: %;
+  }
+
+  .bottom-right3{
+    color: grey;
+    font-family: 'Asap', sans-serif;
+    font-size: 12px;
+    display: inline;
+    box-sizing: border-box;
+    margin-left: %;
+  }
